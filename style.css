@@ -1,0 +1,81 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+.pod {
+    border-radius: 15px;
+    background-color: navy;
+    text-decoration: none;
+    color: whitesmoke;
+    padding: 9px;
+}
+header {
+    background-color: rgb(15, 15, 57);
+    margin: 20px;
+    padding: 15px;
+    border-radius: 20px;
+}
+h1 {
+    border : solid 10px navy;
+    border-radius : 30px;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+.hp {
+    color : whitesmoke
+}
+footer {
+    border: 5px solid navy;
+    border-radius: 20px;
+    padding: 5px;
+    background-color: rgb(60, 60, 233);
+}
+.f {
+    border: 5px solid navy;
+    padding: 5px;
+    margin: 5px;
+    background-color: blue;
+    color: white;
+    border-collapse: collapse;
+    border-radius: 30px;
+    text-align: center;
+}
+nav {
+    background-color: white;
+    border: 5px solid wheat;
+    padding: 13px;
+    margin: 7px;
+    border-radius: 30px;
+}
+.n {
+    text-decoration: none;
+    color: black;
+    pad: 5px;
+    border: solid 4px rgb(187, 170, 139) ;
+    padding: 5px;
+    text-align: center;
+    border-radius: 8px;
+    margin: 7px;
+}
+.img {
+    border: 6px solid navy;
+    border-radius: 20px;
+    text-align: center;
+    padding: 3px;
+    margin: 3px;
+    background-color: whitesmoke;
+}
+.size {
+    text-size:50px ;
+}
+h2 {
+    background-color: aqua;
+    border: solid 5px blue;
+    border-radius: 15px;
+    padding: 7px;
+    text-align: center;
+}
+
